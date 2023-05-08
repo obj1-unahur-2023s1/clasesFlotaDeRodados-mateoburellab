@@ -1,0 +1,8 @@
+object azul {
+	
+}
+
+object blanco
+{
+	
+}
